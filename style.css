@@ -24,3 +24,10 @@ span{
     color: white;
     border-radius: 2em;
 }
+.second{
+    background-image: url(food-network/images/shapes/7.png);
+}
+.wide{
+    width: 50%;
+    padding: 20%;
+}
