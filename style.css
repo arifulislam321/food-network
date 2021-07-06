@@ -10,7 +10,7 @@ span{
 }
 .divide{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .widness{
     width: 50%;
@@ -26,8 +26,74 @@ span{
 }
 .second{
     background-image: url(food-network/images/shapes/7.png);
+    margin: 0;
+    
+   
+
 }
 .wide{
     width: 50%;
     padding: 20%;
+}
+.photo{
+    width: 600px;
+    height: 600px;
+    padding-left: 15%;
+    padding-top: 10%;
+}
+.padding{
+    padding-top: 15%;
+    padding-right: 5%;
+}
+.menu{
+    text-align: center;
+    margin-top: 5%;
+}
+.menu h2{
+    color: lightslategray;
+    font-weight: bolder;
+
+}
+.food-menue{
+    width: 300px;
+    height: 200px;
+  
+    border-radius: 1em;
+}
+.recipe-one{
+    box-shadow: 5px 4px 30px rgb(225, 226, 223); 
+}
+.border-one{
+    display: flex;
+}
+#one{
+    
+ margin-left: 5%;
+ border: 1em solid white;
+ border-radius: 1em;
+ padding: 10px;
+}
+#two{
+    
+    margin-left: 5%; 
+    border: 1em solid white;
+    border-radius: 1em;
+    padding: 10px;
+}
+#three{
+   
+    margin-left: 5%; 
+    border: 1em solid white;
+    border-radius: 1em;
+    margin-right: 5%;
+    padding: 10px;
+}
+#two h3{
+    text-align: center;
+}
+.last{
+    text-align: center;
+    background-color: skyblue;
+    margin-top: 5%;
+    margin-bottom: 0;
 }
